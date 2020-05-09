@@ -1,0 +1,9 @@
+.flex{
+    display: flex;
+}
+.container {
+    width: 100%;
+}
+.column {
+    width:50%;
+}
