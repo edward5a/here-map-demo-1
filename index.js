@@ -17,7 +17,7 @@ function calculateRouteFromAtoB (platform) {
         maneuverattributes: 'direction,action',
         waypoint0: '22.3712,114.1782', // Brandenburg Gate
         waypoint1: '22.3062049,114.21309471',  // Friedrichstraße Railway Station
-        avoidareas: '22.3572906,114.181835;22.3461169,114.1729177'
+        //avoidareas: '22.3572906,114.181835;22.3461169,114.1729177'
       };
   
   
